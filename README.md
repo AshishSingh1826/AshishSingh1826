@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width="200" height="159" src="https://github.com/AshishSingh1826/AshishSingh1826/assets/140939864/1b01243e-5af5-448c-abc6-f077b450ca62">
+<img width="2000" height="159" src="https://github.com/AshishSingh1826/AshishSingh1826/assets/140939864/1b01243e-5af5-448c-abc6-f077b450ca62">
 
 </p>
 
