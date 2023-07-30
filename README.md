@@ -1,4 +1,5 @@
 <img src=”https://github.com/AshishSingh1826/AshishSingh1826/assets/140939864/1b01243e-5af5-448c-abc6-f077b450ca62" alt=”my banner”>
+<img src="https://github.com/AshishSingh1826/AshishSingh1826/assets/140939864/1b01243e-5af5-448c-abc6-f077b450ca62">
 
 ### Hi there 👋
 
