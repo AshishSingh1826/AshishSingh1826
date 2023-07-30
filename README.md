@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+## I'm Ashish Singh
+
+##### About :
+
+- 🔭 I have completed my B. Tech in Electronics and Communication Engineering from BPPIMT.
+
+- 🔭 I’m really passionate about Data Analysis, and Machine Learning.
+
+- 🔭 I have completed my Internship in Tableau from Cognizant.
+
+- 🌱 I’m currently learning Data Analysis with Python.
+
+- ⚡ Certifications: 
+
+Skills: Java | Python | Kotlin | SQL | Excel
+
+- 📫 Reach me at: ashishsingh18261229@gmail.com
 <!--
 **AshishSingh1826/AshishSingh1826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
