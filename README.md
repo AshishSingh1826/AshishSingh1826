@@ -22,7 +22,7 @@
 
 - ## 📫 Reach me at: ashishsingh18261229@gmail.com
 
-- ⚡ Certifications:
+- ##⚡ Certifications:
 
   <img height="500" src="https://github.com/AshishSingh1826/AshishSingh1826/assets/140939864/8ee608ac-8eb9-4864-b397-1f4c7810992a">
 
