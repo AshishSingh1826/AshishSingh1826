@@ -20,6 +20,8 @@
 
 - 🌱 I’m currently learning Data Analysis with Python.
 
+- ## 📫 Reach me at: ashishsingh18261229@gmail.com
+
 - ⚡ Certifications:
 
   <img height="500" src="https://github.com/AshishSingh1826/AshishSingh1826/assets/140939864/8ee608ac-8eb9-4864-b397-1f4c7810992a">
@@ -30,7 +32,7 @@
 
   <img height="500" src="https://github.com/AshishSingh1826/AshishSingh1826/assets/140939864/b6b75e01-d5ef-439d-885b-def8c4e2b753">
 
-- ## 📫 Reach me at: ashishsingh18261229@gmail.com
+
 <!--
 **AshishSingh1826/AshishSingh1826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
