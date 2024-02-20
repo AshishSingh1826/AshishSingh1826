@@ -16,9 +16,9 @@
 
 - 🔭 I have completed my Internship in Tableau from Cognizant.
 
-- 🌱 I’m currently learning Data Analysis with Python.
+- 🌱 I’m currently learning Data Structures and Java Full Stack 
 
-- ⚡ Skills: JAVA | Python | SQL | Pandas | Numpy | Tableau
+- ⚡ Skills: JAVA | Python | SQL | Pandas | Numpy | Tableau | Javascript 
 
 - 📫 Reach me at: ashishsingh18261229@gmail.com
 <!--
